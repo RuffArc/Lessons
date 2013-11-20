@@ -294,11 +294,11 @@ public class LessonTen{
 		numOfMonsters++; // Adds 1 to the number of monsters on the board
 	}
 	
-public static void main(String[] args)
-{
+	public static void main(String[] args)
+	{
 	
 	
 	
-}
+	}
 	
 }
